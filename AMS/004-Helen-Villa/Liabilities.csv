@@ -1,0 +1,93 @@
+"Liabilities > Share Capital ( 201001 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Share Capital ","201001","","3500",
+
+"Balance : 3500(Credit)","","","","","","","","","","0","3500",
+
+"Liabilities > Reserve Fund ( 202001 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Reserve Fund ","202001","","300545",
+JE-2025-0000058,202001,Reserve Fund,,31-03-2026,Being fund trf to reserve fund,,, Reserve Fund ,202001,,600.00,
+
+"Balance : 301145(Credit)","","","","","","","","","","0","301145",
+
+"Liabilities > Sinking Fund ( 202002 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Sinking Fund ","202002","","335163",
+JE-2025-0000059,202002,Sinking Fund,,31-03-2026,Being contribution trf to liabl FY 25-26,,, Sinking Fund ,202002,,6636.00,
+JE-2025-0000062,202002,Sinking Fund,,31-03-2026,Being int trf to fund,,, Sinking Fund ,202002,,9780.00,
+
+"Balance : 351579(Credit)","","","","","","","","","","0","351579",
+
+"Liabilities > Repair  and  Maintenance Fund ( 202003 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Repair  and  Maintenance Fund ","202003","","36708",
+JE-2025-0000059,202003,Repair  and  Maintenance Fund,,31-03-2026,Being contribution trf to liabl FY 25-26,,, Repair  and  Maintenance Fund ,202003,,36708.00,
+
+"Balance : 73416(Credit)","","","","","","","","","","0","73416",
+
+"Liabilities > Repair  and  Painting Fund ( 202005 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Repair  and  Painting Fund ","202005","","28256",
+JE-2025-0000059,202005,Repair  and  Painting Fund,,31-03-2026,Being contribution trf to liabl FY 25-26,,, Repair  and  Painting Fund ,202005,,28224.00,
+JE-2025-0000062,202005,Repair  and  Painting Fund,,31-03-2026,Being int trf to fund,,, Repair  and  Painting Fund ,202005,,532.00,
+
+"Balance : 57012(Credit)","","","","","","","","","","0","57012",
+
+"Liabilities > New Water Pipeline Fund ( 202006 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," New Water Pipeline Fund ","202006","","4092",
+JE-2025-0000057,202006,New Water Pipeline Fund,,31-03-2026,Being dep charged for the financial year 25-26,,, New Water Pipeline Fund ,202006,614.00,,
+
+"Balance : 3478(Credit)","","","","","","","","","","614","4092",
+
+"Liabilities > Lift Upgradation Fund ( 202007 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Lift Upgradation Fund ","202007","","116868",
+JE-2025-0000057,202007,Lift Upgradation Fund,,31-03-2026,Being dep charged for the financial year 25-26,,, Lift Upgradation Fund ,202007,17530.00,,
+
+"Balance : 99338(Credit)","","","","","","","","","","17530","116868",
+
+"Liabilities > Education Training Fund  ( 203003 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Education Training Fund  ","203003","","5040",
+JE-2025-0000059,203003,Education Training Fund ,,31-03-2026,Being contribution trf to liabl FY 25-26,,, Education Training Fund  ,203003,,1680.00,
+
+"Balance : 6720(Credit)","","","","","","","","","","0","6720",
+
+"Liabilities > Provision for Audit Fees ( 204002 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Provision for Audit Fees ","204002","","2000",
+JE-2025-0000041,204002,Provision for Audit Fees,,01-04-2025,Being prov made for FY 24-25 audit Reversed,,, Provision for Audit Fees ,204002,2000.00,,
+JE-2025-0000042,204002,Provision for Audit Fees,,31-03-2026,Being prov made for FY 25-26 audit,,, Provision for Audit Fees ,204002,,2000.00,
+
+"Balance : 2000(Credit)","","","","","","","","","","2000","4000",
+
+"Liabilities > Provision for Water Expenses ( 204003 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Provision for Water Expenses ","204003","","2602",
+
+"Balance : 2602(Credit)","","","","","","","","","","0","2602",
+
+"Liabilities > Provision for expenses ( 204006 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Provision for expenses ","204006","","5326",
+JE-2025-0000043,204006,Provision for expenses,,01-04-2025,Being prov for subscription of FY 24-25 Reversed,,, Provision for expenses ,204006,826.00,,
+JE-2025-0000044,204006,Provision for expenses,,01-04-2025,Being provision made for FY 24-25 ITR filing. Reversed,,, Provision for expenses ,204006,1500.00,,
+JE-2025-0000045,204006,Provision for expenses,,01-04-2025,Being prov made for mandatory returns filing FY 24-25 Reversed,,, Provision for expenses ,204006,1500.00,,
+
+"Balance : 1500(Credit)","","","","","","","","","","3826","5326",
+
+"Liabilities > Retained Earnings ( 207001 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Retained Earnings ","207001","","203121.03",
+
+"Balance : 203121.03(Credit)","","","","","","","","","","0","203121.03",
+
+"Liabilities > Retention - Sejal Construction ( 301032 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Retention - Sejal Construction ","301032","","80300",
+JE-2025-0000019,301032,Retention - Sejal Construction,,17-11-2025,Being retention amount adjusted,,, Retention - Sejal Construction ,301032,80300.00,,
+
+"","","","","","","","","","","80300","80300",
+

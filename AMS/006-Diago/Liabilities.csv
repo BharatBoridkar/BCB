@@ -1,0 +1,139 @@
+"Liabilities > Refundable Deposit ( 206003 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Refundable Deposit ","206003","","20000",
+ME-2025-0000807,206003,Refundable Deposit,A 202,25-09-2025,Chq recd agst LL Deposit,000205,HDFC Bank, Refundable Deposit ,206003,,2000,
+ME-2025-0000808,206003,Refundable Deposit,A 301,25-09-2025,Chq recd agst LL Deposit,115345,Saraswat Bank, Refundable Deposit ,206003,,2000,
+ME-2025-0001165,206003,Refundable Deposit,B 003,19-01-2026,Chq recd agst LL Deposit,266488,Model Bank, Refundable Deposit ,206003,,2000,
+ME-2025-0001578,206003,Refundable Deposit,B 004,27-03-2026,Refunded to Member,213256,, Refundable Deposit ,206003,2000,,
+
+"Balance : 24000(Credit)","","","","","","","","","","2000","26000",
+
+"Liabilities > Issued, Subscribed and Paid Up Capital ( 201001 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Issued  Subscribed and Paid Up Capital ","201001","","18000",
+
+"Balance : 18000(Credit)","","","","","","","","","","0","18000",
+
+"Liabilities > Repair  and  Maintenance Fund ( 202003 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Repair  and  Maintenance Fund ","202003","","",
+JE-2025-0000182,202003,Repair  and  Maintenance Fund,,31-03-2026,Being interest trf to fund 25-26,,, Repair  and  Maintenance Fund ,202003,,2055.00,
+JE-2025-0000185,202003,Repair  and  Maintenance Fund,,31-03-2026,Being interest trf to fund 25-26,,, Repair  and  Maintenance Fund ,202003,2055.00,,
+
+"","","","","","","","","","","2055","2055",
+
+"Liabilities > Redevelopment Fund ( 202006 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Redevelopment Fund ","202006","","143212",
+JE-2025-0000182,202006,Redevelopment Fund,,31-03-2026,Being interest trf to fund 25-26,,, Redevelopment Fund ,202006,,10760.00,
+
+"Balance : 153972(Credit)","","","","","","","","","","0","153972",
+
+"Liabilities > Provision Professional Fees ( 203002 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Provision Professional Fees ","203002","","3540",
+JE-2025-0000058,203002,Provision Professional Fees,,01-04-2025,Being provision reversed,,, Provision Professional Fees ,203002,3540.00,,
+JE-2025-0000178,203002,Provision Professional Fees,,31-03-2026,Being provision for ITR & Mandotory returns filling FY 25-26,,, Provision Professional Fees ,203002,,3540.00,
+
+"Balance : 3540(Credit)","","","","","","","","","","3540","7080",
+
+"Liabilities > Education Training Fund Payable ( 203003 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Education Training Fund Payable ","203003","","36146",
+JE-2025-0000046,203003,Education Training Fund Payable,,31-03-2026,Being members contribution during FY 25-26 trfd to liability,,, Education Training Fund Payable ,203003,,4320.00,
+JE-2025-0000182,203003,Education Training Fund Payable,,31-03-2026,Being interest trf to fund 25-26,,, Education Training Fund Payable ,203003,,2760.00,
+
+"Balance : 43226(Credit)","","","","","","","","","","0","43226",
+
+"Liabilities > Retention - Ecotech Exterior  and  Interior Co ( 203009 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Retention - Ecotech Exterior  and  Interior Co ","203009","","54400",
+
+"Balance : 54400(Credit)","","","","","","","","","","0","54400",
+
+"Liabilities > Provision for expenses ( 204001 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Provision for expenses ","204001","","1770",
+JE-2025-0000062,204001,Provision for expenses,,01-04-2025,Being provision reversed,,, Provision for expenses ,204001,1770.00,,
+JE-2025-0000176,204001,Provision for expenses,,31-03-2026,Being provision for subscription federation FY 25-26,,, Provision for expenses ,204001,,826.00,
+
+"Balance : 826(Credit)","","","","","","","","","","1770","2596",
+
+"Liabilities > Retained Earnings ( 207001 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Retained Earnings ","207001","","269629.46",
+JE-2025-0000057,207001,Retained Earnings,,31-03-2026,Being amt written off as vendor is not collecting his payment more than 1 year,,, Retained Earnings ,207001,,1300.00,
+
+"Balance : 270929.46(Credit)","","","","","","","","","","0","270929.46",
+
+"Liabilities > General Fund ( 207002 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," General Fund ","207002","","193456",
+JE-2025-0000045,207002,General Fund,,31-03-2026,Being members contribution during FY 25-26 trfd to liability,,, General Fund ,207002,,78700.00,
+JE-2025-0000189,207002,General Fund,,31-03-2026,Being general fund fd interest trf to fund 25-26,,, General Fund ,207002,,17232.00,
+
+"Balance : 289388(Credit)","","","","","","","","","","0","289388",
+
+"Liabilities > Common Amenity Fund ( 207003 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Common Amenity Fund ","207003","","138034",
+JE-2025-0000182,207003,Common Amenity Fund,,31-03-2026,Being interest trf to fund 25-26,,, Common Amenity Fund ,207003,,9900.00,
+
+"Balance : 147934(Credit)","","","","","","","","","","0","147934",
+
+"Liabilities > Pest Control Fund ( 207005 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Pest Control Fund ","207005","","137847",
+JE-2025-0000182,207005,Pest Control Fund,,31-03-2026,Being interest trf to fund 25-26,,, Pest Control Fund ,207005,,7985.00,
+JE-2025-0000190,207005,Pest Control Fund,,31-03-2026,Being pest control fund interest trf to liabilities fund 25-26,,, Pest Control Fund ,207005,,3466.00,
+JE-2025-0000183,207005,Pest Control Fund,,31-03-2026,Being pest control exp trf to liabilities,,, Pest Control Fund ,207005,6470.00,,
+
+"Balance : 142828(Credit)","","","","","","","","","","6470","149298",
+
+"Liabilities > Land  and  Building ( 207007 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Land  and  Building ","207007","","2227750",
+
+"Balance : 2227750(Credit)","","","","","","","","","","0","2227750",
+
+"Liabilities > Provision Audit Fees ( 207008 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Provision Audit Fees ","207008","","3600",
+JE-2025-0000061,207008,Provision Audit Fees,,01-04-2025,Being provision reversed,,, Provision Audit Fees ,207008,3600.00,,
+JE-2025-0000065,207008,Provision Audit Fees,,31-03-2026,Provision for the year 2025-2026,,, Provision Audit Fees ,207008,,3600.00,
+
+"Balance : 3600(Credit)","","","","","","","","","","3600","7200",
+
+"Liabilities > Provision Water Charges ( 207009 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Provision Water Charges ","207009","","18026",
+JE-2025-0000060,207009,Provision Water Charges,,01-04-2025,Being provision reversed,,, Provision Water Charges ,207009,18026.00,,
+JE-2025-0000063,207009,Provision Water Charges,,31-03-2026,Being Provision for water exp 03.01.26 to 31.03.2026,,, Provision Water Charges ,207009,,18771.00,
+
+"Balance : 18771(Credit)","","","","","","","","","","18026","36797",
+
+"Liabilities > Legal Fund ( 207011 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Legal Fund ","207011","","260748",
+JE-2025-0000044,207011,Legal Fund,,31-03-2026,Being members contribution during FY 25-26 trfd to liability,,, Legal Fund ,207011,,21600.00,
+JE-2025-0000182,207011,Legal Fund,,31-03-2026,Being interest trf to fund 25-26,,, Legal Fund ,207011,,18595.00,
+
+"Balance : 300943(Credit)","","","","","","","","","","0","300943",
+
+"Liabilities > Sinking Fund ( 207012 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Sinking Fund ","207012","","184476",
+JE-2025-0000042,207012,Sinking Fund,,31-03-2026,Being members contribution during FY 25-26 trfd to liability,,, Sinking Fund ,207012,,7984.00,
+JE-2025-0000182,207012,Sinking Fund,,31-03-2026,Being interest trf to fund 25-26,,, Sinking Fund ,207012,,13233.00,
+
+"Balance : 205693(Credit)","","","","","","","","","","0","205693",
+
+"Liabilities > Painting Fund ( 207013 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Painting Fund ","207013","","166523",
+JE-2025-0000043,207013,Painting Fund,,31-03-2026,Being members contribution during FY 25-26 trfd to liability,,, Painting Fund ,207013,,23956.00,
+JE-2025-0000182,207013,Painting Fund,,31-03-2026,Being interest trf to fund 25-26,,, Painting Fund ,207013,,9923.00,
+JE-2025-0000185,207013,Painting Fund,,31-03-2026,Being interest trf to fund 25-26,,, Painting Fund ,207013,,2055.00,
+
+"Balance : 202457(Credit)","","","","","","","","","","0","202457",
+
