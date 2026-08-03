@@ -1,0 +1,156 @@
+"Liabilities > Refundable Deposit ( 206003 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Refundable Deposit ","206003","","80000",
+
+"Balance : 80000(Credit)","","","","","","","","","","0","80000",
+
+"Liabilities > TDS Payable ( 203005 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," TDS Payable ","203005","","381",
+TE-2025-0000001,203005,TDS Payable,,07-04-2025,Being TDS paid of vendor,07900,, TDS Payable ,203005,220,,
+EE-2025-0000010,203005,TDS Payable,Ganesh Security  Service,25-04-2025,Towards payment to Ganesh Security  Service,,, TDS Payable ,203005,,220,
+TE-2025-0000015,203005,TDS Payable,,07-05-2025,Being TDS paid of vendor,19298,, TDS Payable ,203005,220,,
+EE-2025-0000047,203005,TDS Payable,Ganesh Security  Service,31-05-2025,Towards payment to Ganesh Security  Service,,, TDS Payable ,203005,,220,
+TE-2025-0000003,203005,TDS Payable,,07-06-2025,Being TDS paid of vendor,42378,, TDS Payable ,203005,220,,
+TE-2025-0000016,203005,TDS Payable,,07-07-2025,Being TDS paid of vendor,16770,, TDS Payable ,203005,220,,
+EE-2025-0000062,203005,TDS Payable,Ganesh Security  Service,01-08-2025,Towards payment to Ganesh Security  Service,,, TDS Payable ,203005,,220,
+EE-2025-0000075,203005,TDS Payable,Ganesh Security  Service,01-08-2025,Towards payment to Ganesh Security  Service,,, TDS Payable ,203005,,220,
+TE-2025-0000017,203005,TDS Payable,,07-08-2025,Being TDS paid of vendor,02970,, TDS Payable ,203005,220,,
+EE-2025-0000120,203005,TDS Payable,Ganesh Security  Service,31-08-2025,Towards payment to Ganesh Security  Service,,, TDS Payable ,203005,,220,
+TE-2025-0000018,203005,TDS Payable,,06-09-2025,Being TDS paid of vendor,24534,, TDS Payable ,203005,220,,
+EE-2025-0000138,203005,TDS Payable,Ganesh Security  Service,30-09-2025,Towards payment to Ganesh Security  Service,,, TDS Payable ,203005,,220,
+EE-2025-0000146,203005,TDS Payable,Navin Singh,13-10-2025,Towards payment to Navin Singh,,, TDS Payable ,203005,,321,
+EE-2025-0000144,203005,TDS Payable,Mahak Agrawal,13-10-2025,Towards payment to Mahak Agrawal,,, TDS Payable ,203005,,600,
+EE-2025-0000142,203005,TDS Payable,Manu Chouhan,13-10-2025,Towards payment to Manu Chouhan,,, TDS Payable ,203005,,600,
+TE-2025-0000010,203005,TDS Payable,,07-11-2025,Being TDS paid of vendors,03296,, TDS Payable ,203005,609,,
+EE-2025-0000239,203005,TDS Payable,Ganesh Security  Service,30-11-2025,Towards payment to Ganesh Security  Service,,, TDS Payable ,203005,,220,
+TE-2025-0000012,203005,TDS Payable,,07-12-2025,Being TDS paid of vendors,19575,, TDS Payable ,203005,1741,,
+EE-2025-0000284,203005,TDS Payable,Ganesh Security  Service,01-01-2026,Towards payment to Ganesh Security  Service,,, TDS Payable ,203005,,220,
+TE-2025-0000013,203005,TDS Payable,,07-01-2026,Being TDS paid of vendors,66406,, TDS Payable ,203005,220,,
+EE-2025-0000297,203005,TDS Payable,Ganesh Security  Service,01-02-2026,Towards payment to Ganesh Security  Service,,, TDS Payable ,203005,,220,
+EE-2025-0000304,203005,TDS Payable,Ashin Elevators,01-02-2026,Towards payment to Ashin Elevators,,, TDS Payable ,203005,,98,
+EE-2025-0000299,203005,TDS Payable,Ashna Elevators,01-02-2026,Towards payment to Ashna Elevators,,, TDS Payable ,203005,,88,
+EE-2025-0000300,203005,TDS Payable,Ashna Elevators,01-02-2026,Towards payment to Ashna Elevators,,, TDS Payable ,203005,,87,
+TE-2025-0000014,203005,TDS Payable,,07-02-2026,Being TDS paid of vendors,21264,, TDS Payable ,203005,220,,
+EE-2025-0000359,203005,TDS Payable,Ganesh Security  Service,01-03-2026,Towards payment to Ganesh Security  Service,,, TDS Payable ,203005,,220,
+EE-2025-0000391,203005,TDS Payable,Ashna Elevators,01-03-2026,Towards payment to Ashna Elevators,,, TDS Payable ,203005,,88,
+TE-2025-0000021,203005,TDS Payable,,10-03-2026,TDS paid to vendor,048930,, TDS Payable ,203005,440,,
+EE-2025-0000369,203005,TDS Payable,Ganesh Security  Service,30-03-2026,Towards payment to Ganesh Security  Service,,, TDS Payable ,203005,,220,
+EE-2025-0000148,203005,TDS Payable,Ashna Elevators,31-10-2025,Towards payment to Ashna Elevators. TDS of 389,,, TDS Payable ,203005,,389,
+EE-2025-0000150,203005,TDS Payable,Ganesh Security  Service,31-10-2025,Towards payment to Ganesh Security  Service. TDS of 220,,, TDS Payable ,203005,,220,
+
+"Balance : 742(Credit)","","","","","","","","","","4550","5292",
+
+"Liabilities > Issued, Subscribed and Paid Up Capital ( 201001 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Issued  Subscribed and Paid Up Capital ","201001","","14000",
+
+"Balance : 14000(Credit)","","","","","","","","","","0","14000",
+
+"Liabilities > Sinking Fund ( 202002 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Sinking Fund ","202002","","1203632",
+JE-2025-0000137,202002,Sinking Fund,,31-03-2026,Being members contribution toward fund trf to liab FY 25-26,,, Sinking Fund ,202002,,58224.00,
+JE-2025-0000138,202002,Sinking Fund,,31-03-2026,Being interest on FD trf to Fund libilities,,, Sinking Fund ,202002,,86946.00,
+
+"Balance : 1348802(Credit)","","","","","","","","","","0","1348802",
+
+"Liabilities > Repair Fund ( 202005 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Repair Fund ","202005","","3453942",
+JE-2025-0000137,202005,Repair Fund,,31-03-2026,Being members contribution toward fund trf to liab FY 25-26,,, Repair Fund ,202005,,175056.00,
+JE-2025-0000138,202005,Repair Fund,,31-03-2026,Being interest on FD trf to Fund libilities,,, Repair Fund ,202005,,237133.00,
+JE-2025-0000141,202005,Repair Fund,,31-03-2026,Being expenses incurred for painting and repairs trfd to liability,,, Repair Fund ,202005,152099.00,,
+
+"Balance : 3714032(Credit)","","","","","","","","","","152099","3866131",
+
+"Liabilities > Grotto Fund ( 202006 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Grotto Fund ","202006","","96383",
+JE-2025-0000138,202006,Grotto Fund,,31-03-2026,Being interest on FD trf to Fund libilities,,, Grotto Fund ,202006,,7902.00,
+
+"Balance : 104285(Credit)","","","","","","","","","","0","104285",
+
+"Liabilities > Professional Fees Payable ( 203002 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Professional Fees Payable ","203002","","6000",
+JE-2025-0000123,203002,Professional Fees Payable,,01-04-2025,Being provision for FY 24-25 ITR filing Reverse,,, Professional Fees Payable ,203002,3500.00,,
+JE-2025-0000124,203002,Professional Fees Payable,,01-04-2025,Being provision made for FY 24-25 Q4 TDS returns Reverse,,, Professional Fees Payable ,203002,1000.00,,
+JE-2025-0000125,203002,Professional Fees Payable,,31-03-2026,Being provision made for FY 25-26 Q4 TDS returns,,, Professional Fees Payable ,203002,,1000.00,
+JE-2025-0000126,203002,Professional Fees Payable,,31-03-2026,Being provision for FY 25-26 ITR filing,,, Professional Fees Payable ,203002,,3800.00,
+
+"Balance : 6300(Credit)","","","","","","","","","","4500","10800",
+
+"Liabilities > Education Training Fund Payable ( 203003 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Education Training Fund Payable ","203003","","1103",
+JE-2025-0000137,203003,Education Training Fund Payable,,31-03-2026,Being members contribution toward fund trf to liab FY 25-26,,, Education Training Fund Payable ,203003,,5376.00,
+
+"Balance : 6479(Credit)","","","","","","","","","","0","6479",
+
+"Liabilities > Provision for expenses ( 204001 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Provision for expenses ","204001","","12690",
+JE-2025-0000129,204001,Provision for expenses,,01-04-2025,Being provision made for Q4 Jan to Mar 25 - Lift AMC Reversed,,, Provision for expenses ,204001,10324.00,,
+JE-2025-0000145,204001,Provision for expenses,,31-03-2026,Being previouse balance adgusted in retain earning,,, Provision for expenses ,204001,2366.00,,
+
+"","","","","","","","","","","12690","12690",
+
+"Liabilities > Retained Earnings ( 207001 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Retained Earnings ","207001","","1212107.24",
+JE-2025-0000145,207001,Retained Earnings,,31-03-2026,Being previouse balance adgusted in retain earning,,, Retained Earnings ,207001,,2366.00,
+
+"Balance : 1214473.24(Credit)","","","","","","","","","","0","1214473.24",
+
+"Liabilities > Reserve Fund ( 207002 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Reserve Fund ","207002","","734254",
+JE-2025-0000138,207002,Reserve Fund,,31-03-2026,Being interest on FD trf to Fund libilities,,, Reserve Fund ,207002,,101228.00,
+
+"Balance : 835482(Credit)","","","","","","","","","","0","835482",
+
+"Liabilities > Contigency Fund ( 207003 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Contigency Fund ","207003","","1584118",
+JE-2025-0000137,207003,Contigency Fund,,31-03-2026,Being members contribution toward fund trf to liab FY 25-26,,, Contigency Fund ,207003,,54000.00,
+JE-2025-0000138,207003,Contigency Fund,,31-03-2026,Being interest on FD trf to Fund libilities,,, Contigency Fund ,207003,,108594.00,
+
+"Balance : 1746712(Credit)","","","","","","","","","","0","1746712",
+
+"Liabilities > Members Contribution Towards Land  and  Building ( 207004 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Members Contribution Towards Land  and  Building ","207004","","35838000",
+
+"Balance : 35838000(Credit)","","","","","","","","","","0","35838000",
+
+"Liabilities > Provision Audit Fees ( 207006 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Provision Audit Fees ","207006","","2800",
+JE-2025-0000127,207006,Provision Audit Fees,,01-04-2025,Being provision made for FY 24-25 reverse,,, Provision Audit Fees ,207006,2800.00,,
+JE-2025-0000128,207006,Provision Audit Fees,,31-03-2026,Being provision made for FY 25-26,,, Provision Audit Fees ,207006,,2800.00,
+
+"Balance : 2800(Credit)","","","","","","","","","","2800","5600",
+
+"Liabilities > Provision Water Charges ( 207008 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Provision Water Charges ","207008","","4248",
+JE-2025-0000131,207008,Provision Water Charges,,01-04-2025,Being provision made from 5th to 31st Mar 25 - PN 0388312 Reversed,,, Provision Water Charges ,207008,4248.00,,
+JE-2025-0000132,207008,Provision Water Charges,,31-03-2026,Being provision made from 5th to 31st Mar 26 - PN 0388312,,, Provision Water Charges ,207008,,4195.00,
+
+"Balance : 4195(Credit)","","","","","","","","","","4248","8443",
+
+"Liabilities > Building Painting Fund ( 207016 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Building Painting Fund ","207016","","767792",
+JE-2025-0000138,207016,Building Painting Fund,,31-03-2026,Being interest on FD trf to Fund libilities,,, Building Painting Fund ,207016,,53843.00,
+
+"Balance : 821635(Credit)","","","","","","","","","","0","821635",
+
+"Liabilities > Provision For Income Tax ( 3010162 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Provision For Income Tax ","3010162","","",
+JE-2025-0000079,3010162,Provision For Income Tax,,10-02-2026,Being income tax refund recd for FY 24-25 vide ref SBIN526041538790,,, Provision For Income Tax ,3010162,,199.00,
+
+"Balance : 199(Credit)","","","","","","","","","","0","199",
+
