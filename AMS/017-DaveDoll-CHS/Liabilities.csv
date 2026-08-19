@@ -1,0 +1,92 @@
+"Liabilities > Share Capital ( 201001 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Share Capital ","201001","","9000",
+
+"Balance : 9000(Credit)","","","","","","","","","","0","9000",
+
+"Liabilities > Conveyance Fund ( 202001 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Conveyance Fund ","202001","","166102",
+
+"Balance : 166102(Credit)","","","","","","","","","","0","166102",
+
+"Liabilities > Sinking Fund ( 202002 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Sinking Fund ","202002","","329855",
+JE-2025-0000037,202002,Sinking Fund,,31-03-2026,Being members contribution toward fund trf to liab,,, Sinking Fund ,202002,,21600.00,
+JE-2025-0000055,202002,Sinking Fund,,31-03-2026,Being int trf to sinking fund account,,, Sinking Fund ,202002,,15160.00,
+
+"Balance : 366615(Credit)","","","","","","","","","","0","366615",
+
+"Liabilities > Repair  Fund ( 202003 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Repair  Fund ","202003","","",
+JE-2025-0000037,202003,Repair  Fund,,31-03-2026,Being members contribution toward fund trf to liab,,, Repair  Fund ,202003,,56520.00,
+
+"Balance : 56520(Credit)","","","","","","","","","","0","56520",
+
+"Liabilities > Lift Repair Fund ( 202005 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Lift Repair Fund ","202005","","155433",
+JE-2025-0000037,202005,Lift Repair Fund,,31-03-2026,Being members contribution toward fund trf to liab,,, Lift Repair Fund ,202005,,25200.00,
+
+"Balance : 180633(Credit)","","","","","","","","","","0","180633",
+
+"Liabilities > Major Repair Fund ( 202006 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Major Repair Fund ","202006","","",
+JE-2025-0000037,202006,Major Repair Fund,,31-03-2026,Being members contribution toward fund trf to liab,,, Major Repair Fund ,202006,,64800.00,
+JE-2025-0000056,202006,Major Repair Fund,,31-03-2026,Being exp incured during the year trf to liabi,,, Major Repair Fund ,202006,10000.00,,
+
+"Balance : 54800(Credit)","","","","","","","","","","10000","64800",
+
+"Liabilities > General Reserve ( 202007 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," General Reserve ","202007","","34256",
+
+"Balance : 34256(Credit)","","","","","","","","","","0","34256",
+
+"Liabilities > Professional Fees Payable ( 203002 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Professional Fees Payable ","203002","","3000",
+
+"Balance : 3000(Credit)","","","","","","","","","","0","3000",
+
+"Liabilities > Education Fund Payable ( 203003 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Education Fund Payable ","203003","","882",
+
+"Balance : 882(Credit)","","","","","","","","","","0","882",
+
+"Liabilities > Audit Fees Payable ( 203007 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Audit Fees Payable ","203007","","4000",
+
+"Balance : 4000(Credit)","","","","","","","","","","0","4000",
+
+"Liabilities > Water Charges Payable ( 203009 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Water Charges Payable ","203009","","5345",
+JE-2025-0000057,203009,Water Charges Payable,,01-04-2025,Being provision made from 13th Jan to 31st Mar 25 - 77 days Reversed,,, Water Charges Payable ,203009,5345.00,,
+JE-2025-0000058,203009,Water Charges Payable,,31-03-2026,Being provision made from 13th Jan to 31st Mar 26 - 77 days,,, Water Charges Payable ,203009,,5463.00,
+
+"Balance : 5463(Credit)","","","","","","","","","","5345","10808",
+
+"Liabilities > Electricity Charges Payable ( 203011 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Electricity Charges Payable ","203011","","4190",
+
+"Balance : 4190(Credit)","","","","","","","","","","0","4190",
+
+"Liabilities > Retention - AGM Construction ( 203015 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Retention - AGM Construction ","203015","","25000",
+
+"Balance : 25000(Credit)","","","","","","","","","","0","25000",
+
+"Liabilities > Retained Earnings ( 207001 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Retained Earnings ","207001","267520.66","",
+
+"Balance : 267520.66(Debit)","","","","","","","","","","267520.66","0",
+

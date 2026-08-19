@@ -1,0 +1,123 @@
+"Liabilities > TDS Payable ( 203005 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," TDS Payable ","203005","","",
+EE-2025-0000171,203005,TDS Payable,Swarnika Enterprises,26-04-2025,Towards payment to Swarnika Enterprises. TDS of 2057,,, TDS Payable ,203005,,2057,
+EE-2025-0000174,203005,TDS Payable,Swarnika Enterprises,09-05-2025,Towards payment to Swarnika Enterprises. TDS of 4714,,, TDS Payable ,203005,,4714,
+EE-2025-0000178,203005,TDS Payable,Swarnika Enterprises,29-05-2025,Towards payment to Swarnika Enterprises. TDS of 4719,,, TDS Payable ,203005,,4719,
+
+"Balance : 11490(Credit)","","","","","","","","","","0","11490",
+
+"Liabilities > Issued, Subscribed and Paid Up Capital ( 201001 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Issued  Subscribed and Paid Up Capital ","201001","","9000",
+
+"Balance : 9000(Credit)","","","","","","","","","","0","9000",
+
+"Liabilities > Sinking Fund ( 202002 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Sinking Fund ","202002","","581422",
+JE-2025-0000071,202002,Sinking Fund,,31-03-2026,Being contribution trf to liab FY 25-26,,, Sinking Fund ,202002,,12792.00,
+JE-2025-0000074,202002,Sinking Fund,,31-03-2026,Being interest amount transfer to respective fund,,, Sinking Fund ,202002,,954.00,
+
+"Balance : 595168(Credit)","","","","","","","","","","0","595168",
+
+"Liabilities > Repair Fund ( 202005 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Repair Fund ","202005","","450886.7",
+JE-2025-0000070,202005,Repair Fund,,31-03-2026,Being contribution trf to liab FY 25-26,,, Repair Fund ,202005,,38376.00,
+JE-2025-0000074,202005,Repair Fund,,31-03-2026,Being interest amount transfer to respective fund,,, Repair Fund ,202005,,22293.00,
+JE-2025-0000090,202005,Repair Fund,,31-03-2026,Being major repair exp less from repair fund & building dev fund FY 25-26,,, Repair Fund ,202005,131037.00,,
+
+"Balance : 380518.7(Credit)","","","","","","","","","","131037","511555.7",
+
+"Liabilities > Building Development Fund ( 202006 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Building Development Fund ","202006","","565159",
+JE-2025-0000071,202006,Building Development Fund,,31-03-2026,Being contribution trf to liab FY 25-26,,, Building Development Fund ,202006,,180624.00,
+JE-2025-0000074,202006,Building Development Fund,,31-03-2026,Being interest amount transfer to respective fund,,, Building Development Fund ,202006,,14486.00,
+JE-2025-0000090,202006,Building Development Fund,,31-03-2026,Being major repair exp less from repair fund & building dev fund FY 25-26,,, Building Development Fund ,202006,760269.00,,
+
+"","","","","","","","","","","760269","760269",
+
+"Liabilities > Professional Fees Payable ( 203002 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Professional Fees Payable ","203002","","4500",
+JE-2025-0000062,203002,Professional Fees Payable,,01-04-2025,Being provision for professional fee for ITR filing for FY 2023-24 made Reversed,,, Professional Fees Payable ,203002,1500.00,,
+JE-2025-0000063,203002,Professional Fees Payable,,01-04-2025,Being provision for Mandatory return n O form submission FY 23-24 Reversed,,, Professional Fees Payable ,203002,1500.00,,
+
+"Balance : 1500(Credit)","","","","","","","","","","3000","4500",
+
+"Liabilities > Education Training Fund  ( 203003 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Education Training Fund  ","203003","","26392",
+JE-2025-0000071,203003,Education Training Fund ,,31-03-2026,Being contribution trf to liab FY 25-26,,, Education Training Fund  ,203003,,2160.00,
+JE-2025-0000072,203003,Education Training Fund ,,31-03-2026,Being exp incured during the year,,, Education Training Fund  ,203003,1770.00,,
+JE-2025-0000074,203003,Education Training Fund ,,31-03-2026,Being interest amount transfer to respective fund,,, Education Training Fund  ,203003,,1686.00,
+
+"Balance : 28468(Credit)","","","","","","","","","","1770","30238",
+
+"Liabilities > Provision for expenses ( 204001 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Provision for expenses ","204001","","6600",
+
+"Balance : 6600(Credit)","","","","","","","","","","0","6600",
+
+"Liabilities > Prop. Tax Refundable to Members ( 205003 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Prop. Tax Refundable to Members ","205003","","101814",
+
+"Balance : 101814(Credit)","","","","","","","","","","0","101814",
+
+"Liabilities > Retained Earnings ( 207001 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Retained Earnings ","207001","","534393.3",
+JE-2025-0000091,207001,Retained Earnings,,31-03-2026,Beinf FD premature interest shortly deduct,,, Retained Earnings ,207001,4223.00,,
+
+"Balance : 530170.3(Credit)","","","","","","","","","","4223","534393.3",
+
+"Liabilities > Reserve Fund ( 207002 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Reserve Fund ","207002","","210509.75",
+JE-2025-0000068,207002,Reserve Fund,,31-03-2026,Being contribution trf to reserve fund FY 25-26,,, Reserve Fund ,207002,,28100.00,
+JE-2025-0000074,207002,Reserve Fund,,31-03-2026,Being interest amount transfer to respective fund,,, Reserve Fund ,207002,,60268.00,
+
+"Balance : 298877.75(Credit)","","","","","","","","","","0","298877.75",
+
+"Liabilities > Towards Land  and  Building ( 207003 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Towards Land  and  Building ","207003","","12040000",
+
+"Balance : 12040000(Credit)","","","","","","","","","","0","12040000",
+
+"Liabilities > Audit Fees Payable ( 207004 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Audit Fees Payable ","207004","","4000",
+JE-2025-0000060,207004,Audit Fees Payable,,31-03-2026,Being provision for FY 25-26,,, Audit Fees Payable ,207004,,2000.00,
+
+"Balance : 6000(Credit)","","","","","","","","","","0","6000",
+
+"Liabilities > Water Charges Payable ( 207005 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Water Charges Payable ","207005","","3491",
+JE-2025-0000061,207005,Water Charges Payable,,01-04-2025,being provision for water charges from 10.02.2025-31.03.2025 Reversed,,, Water Charges Payable ,207005,3491.00,,
+JE-2025-0000064,207005,Water Charges Payable,,31-03-2026,Being provision for water charges for 06.02.2026 to 31.03.2026,,, Water Charges Payable ,207005,,3923.00,
+
+"Balance : 3923(Credit)","","","","","","","","","","3491","7414",
+
+"Liabilities > Retention - R.K. Waterproofing Co. ( 301042 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Retention - R.K. Waterproofing Co. ","301042","","45000",
+
+"Balance : 45000(Credit)","","","","","","","","","","0","45000",
+
+"Liabilities > Retention - Swarnika ( 301043 ) ",
+"Journal No","Other GL No.","Other Account","Subledger","Posted Date","Comments","Instrument No.","Instrument Bank","Account Name","GL Account No.","Debit","Credit",
+"","","","","","Opening Balance","",""," Retention - Swarnika ","301043","","",
+JE-2025-0000018,301043,Retention - Swarnika,,26-04-2025,Being 5% retention deducted,,, Retention - Swarnika ,301043,,12144.00,
+JE-2025-0000019,301043,Retention - Swarnika,,08-05-2025,Being 5% retention deducted,,, Retention - Swarnika ,301043,,16088.00,
+JE-2025-0000020,301043,Retention - Swarnika,,30-05-2025,Being 5% retention deducted,,, Retention - Swarnika ,301043,,12418.00,
+JE-2025-0000021,301043,Retention - Swarnika,,30-05-2025,Being access amount posted,,, Retention - Swarnika ,301043,,8770.00,
+JE-2025-0000022,301043,Retention - Swarnika,,14-03-2026,Being retention amount posted,,, Retention - Swarnika ,301043,49420.00,,
+
+"","","","","","","","","","","49420","49420",
+
